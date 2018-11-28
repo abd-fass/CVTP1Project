@@ -1,6 +1,6 @@
 clear all; close all; clc;
 
-%%%
+
 w = 10; % Widthw of thepatches.
 n = w*w; % Dimension n=wxw of the data to be sparse coded .
 p = 2*n; % Number of atoms p in the dictionary.
