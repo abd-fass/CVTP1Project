@@ -1,5 +1,5 @@
 clear all; close all; clc;
-
+%%%
 name = 'lena';
 n = 256;
 f0 = load_image(name);
